@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[juk:home|Door43 (juk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-juk|d43-juk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-juk/archive/master.zip|d43-juk.zip]]
+
+**Recent Changes**
+{{changes>ns = juk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/juk|Ethnologue data]]
+
